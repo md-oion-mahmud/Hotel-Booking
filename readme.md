@@ -1,6 +1,4 @@
-# Laravel 5.5 based system for hotel managers to manage room bookings
-
-
+# Laravel 5.5 hotel booking system
 
 
 ## How to use
@@ -16,10 +14,5 @@
 
 Basically, feel free to use and re-use any way you want.
 
----
 
-#contact 
 
-https://projectworlds.in
-
-youtube https://youtu.be/nl_VK8ZTFtI
